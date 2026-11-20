@@ -1,0 +1,10 @@
+
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+fastapi
+uvicorn
+streamlit
+python-dotenv
+numpy
