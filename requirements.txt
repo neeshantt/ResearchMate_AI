@@ -1,4 +1,4 @@
-
+pypdf
 pymupdf
 sentence-transformers
 faiss-cpu
